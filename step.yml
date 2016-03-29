@@ -7,9 +7,9 @@ description: |-
   Register an InstallrApp account at [http://installrapp.com/](http://installrapp.com)
   to utilize this step.
   You also need to create an *InstallrApp API Token* for your app.
-website: https://github.com/bitrise-io/steps-installrapp-deploy
-source_code_url: https://github.com/bitrise-io/steps-installrapp-deploy
-support_url: https://github.com/bitrise-io/steps-installrapp-deploy/issues
+website: https://github.com/Redth/bitrise-steps-installrapp-deploy
+source_code_url: https://github.com/Redth/bitrise-steps-installrapp-deploy
+support_url: https://github.com/Redth/bitrise-steps-installrapp-deploy/issues
 host_os_tags:
   - osx-10.9
   - osx-10.10
